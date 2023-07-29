@@ -14,8 +14,7 @@ function hasTargetSum(array, target) {
             return true
           } 
       }
-      
-  }
+    }
   }
 return false;
 }
@@ -31,12 +30,7 @@ O(n^2) time complexity
 1+2=3
 1+3=4
 1+4=5
-
-
-
-
-
-  Add your pseudocode here
+=>  Add your pseudocode here
   loops through an array of integers
     cross checks wach item against the other adding
     if total === total2
